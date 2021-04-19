@@ -1,0 +1,194 @@
+﻿  cJSON.cpp
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(143,30): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(161,12): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(169,56): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(170,48): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(171,20): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(259,10): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(264,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(275,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(301,14): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(380,48): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(381,49): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(382,48): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(481,41): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(449,12): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(624,66): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\cJSON.cpp(647,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConsoleApplication1.cpp
+  dictionary.cpp
+C:\Users\william\source\repos\windows_gre\windows_gre\dictionary.cpp(68,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\dictionary.cpp(94,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  iniparser.cpp
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(83,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(255,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(290,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(336,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(565,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(577,9): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(578,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(579,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(581,16): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(582,16): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(583,16): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(585,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(586,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(587,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(596,16): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(597,16): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(604,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(605,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(646,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\iniparser.cpp(702,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(79,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(119,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(127,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(128,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(129,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(244,12): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(271,82): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(272,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(272,16): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(272,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(272,16): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(172,30): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(161,11): warning C4101: “ethertype”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(692,12): warning C4244: “return”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(677,29): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(634,9): warning C4101: “ec”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(707,39): warning C4244: “+=”: 从“double”转换到“uint”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(702,13): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(710,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(816,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(817,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(757,27): warning C4101: “Open”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(753,11): warning C4101: “AdapterName”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(754,11): warning C4101: “temp”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(758,12): warning C4101: “AdapterLength”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(754,19): warning C4101: “temp1”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(964,17): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(884,26): warning C4101: “ulen”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(885,20): warning C4101: “pLine”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(884,14): warning C4101: “j”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(884,11): warning C4101: “i”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1074,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1113,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1114,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1400,25): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1542,108): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1597,108): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1534,21): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1584,21): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1374,10): warning C4101: “buf”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1376,9): warning C4101: “i”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1375,10): warning C4101: “str”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1470,24): warning C4101: “cJSON_islive”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1470,40): warning C4101: “cJSON_uuid”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1630,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1638,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1639,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\main.cpp(1661,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  myfluxcap_windows.cpp
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(142,30): warning C4129: “/”: 不可识别的字符转义序列
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(142,51): warning C4129: “/”: 不可识别的字符转义序列
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(109,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(149,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(157,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(158,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(159,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(266,12): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(293,84): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(294,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(294,16): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(294,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(294,16): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(194,30): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(183,11): warning C4101: “ethertype”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(560,12): warning C4244: “return”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(545,29): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(507,9): warning C4101: “ec”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(627,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(628,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(604,27): warning C4101: “Open”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(600,11): warning C4101: “AdapterName”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(601,11): warning C4101: “temp”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(605,12): warning C4101: “AdapterLength”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(601,19): warning C4101: “temp1”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(766,16): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(841,39): warning C4244: “+=”: 从“double”转换到“uint”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(836,13): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(844,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(892,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(931,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(932,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1155,20): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1180,25): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1304,110): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1359,110): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1296,21): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1346,21): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1150,10): warning C4101: “buf”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1152,9): warning C4101: “i”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1151,10): warning C4101: “str”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1232,24): warning C4101: “cJSON_islive”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1232,40): warning C4101: “cJSON_uuid”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1392,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1400,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1401,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1407,13): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\william\source\repos\windows_gre\windows_gre\myfluxcap_windows.cpp(1423,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  windows_get_mtu.cpp
+  zhuabao.cpp
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(100,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(140,25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(148,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(149,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(150,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(235,12): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(242,78): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(243,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(243,12): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(243,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(243,12): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(191,30): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(180,11): warning C4101: “ethertype”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(632,12): warning C4244: “return”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(617,29): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(574,9): warning C4101: “ec”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(647,39): warning C4244: “+=”: 从“double”转换到“uint”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(642,13): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(650,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(720,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(721,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(697,27): warning C4101: “Open”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(693,11): warning C4101: “AdapterName”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(694,11): warning C4101: “temp”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(698,12): warning C4101: “AdapterLength”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(694,19): warning C4101: “temp1”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(845,17): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(789,26): warning C4101: “ulen”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(790,20): warning C4101: “pLine”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(789,14): warning C4101: “j”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(789,11): warning C4101: “i”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(954,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(993,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(994,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1530,25): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1672,108): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1727,108): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1664,21): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1714,21): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1504,10): warning C4101: “buf”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1506,9): warning C4101: “i”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1505,10): warning C4101: “str”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1600,24): warning C4101: “cJSON_islive”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1600,40): warning C4101: “cJSON_uuid”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1748,19): error C3861: “getcwd”: 找不到标识符
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1757,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1758,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1774,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1782,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1783,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1809,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...

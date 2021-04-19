@@ -1,0 +1,27 @@
+﻿  zhuabao.cpp
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(220,5): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(222,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char **”
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(191,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(180,11): warning C4101: “ethertype”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(619,29): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(576,9): warning C4101: “ec”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(649,39): warning C4244: “+=”: 从“double”转换到“uint”，可能丢失数据
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(699,27): warning C4101: “Open”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(695,11): warning C4101: “AdapterName”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(696,11): warning C4101: “temp”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(700,12): warning C4101: “AdapterLength”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(696,19): warning C4101: “temp1”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(849,17): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(791,26): warning C4101: “ulen”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(792,20): warning C4101: “pLine”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(791,14): warning C4101: “j”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(791,11): warning C4101: “i”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1668,21): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1718,21): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1508,10): warning C4101: “buf”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1510,9): warning C4101: “i”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1509,10): warning C4101: “str”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1604,24): warning C4101: “cJSON_islive”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1604,40): warning C4101: “cJSON_uuid”: 未引用的局部变量
+C:\Users\william\source\repos\windows_gre\windows_gre\zhuabao.cpp(1752,19): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+  windows_gre.vcxproj -> C:\Users\william\source\repos\windows_gre\Debug\windows_gre.exe
